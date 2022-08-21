@@ -10,16 +10,21 @@ This repo includes the Remote Sensing papers with Transformers which are present
 
 #### Content
 - [VHR Imagery](#vhr-imagery)<br>
-  - [Complete Scenes Segmentation](#complete-scenes-segmentation)<br>
-  - [Point Cloud Video Segmentation](#point-cloud-video-segmentation)<br>
-  - [Medical Imaging Segmentation](#medical-imaging-segmentation)<br>
+  - [Image Classification](#image-classification-vhr)<br>
+  - [Image Detection](#image-Detection-vhr)<br>
+  - [Change Detection](#Change-Detection-vhr)<br>
+  - [Image Segmentation](#Image-Segmentation-vhr)<br>
+  - [Others](#Others-vhr)<br>
 - [Hyperspectral Imagery](#hyperspectral-imagery)<br>
-  - [Complete Scenes Segmentation](#complete-scenes-segmentation)<br>
-  - [Point Cloud Video Segmentation](#point-cloud-video-segmentation)<br>
-  - [Medical Imaging Segmentation](#medical-imaging-segmentation)<br>
+  - [Image Classification](#image-classification-hyper)<br>
+  - [Pan Sharpening](#pan-sharpening)<br>
 - [SAR Imagery](#sar-imagery)<br>
-  - [Complete Scenes Segmentation](#complete-scenes-segmentation)<br>
-  - [Point Cloud Video Segmentation](#point-cloud-video-segmentation)<br>
-  - [Medical Imaging Segmentation](#medical-imaging-segmentation)<br>
+  - [Image Classification](#image-classification-sar)<br>
+  - [Image Detection](#image-Detection-sar)<br>
+  - [Despeckling](#despeckling-sar)<br>
+  - [Registration](#registration-sar)<br>
+  - [Change Detection](#Change-Detection-sar)<br>
+  - [SAR Image Interpretation](#Image-interpretation-sar)<br>
+  - [Others](#Others-sar)<br>
 
 
