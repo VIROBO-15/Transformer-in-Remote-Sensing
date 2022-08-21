@@ -1,6 +1,6 @@
 # Transformer-for-Remote-Sensing
 # This repo supplements our [Transformer for Remote Sensing Survey](https://arxiv.org/abs/2208.04309)
-Abdulaziz Amer Aleissaee, Amandeep Kumar, Rao Muhammad Anwer,  Salman Khan, Hisham Cholakkal, Fahad Shahbaz khan
+Abdulaziz Amer Aleissaee*, Amandeep Kumar*, Rao Muhammad Anwer,  Salman Khan, Hisham Cholakkal, Fahad Shahbaz khan
 
 This repo includes the Remote Sensing papers with Transformers which are presented in our [paper](https://arxiv.org/abs/2208.04309), and we aim to frequently update the latest relevant papers.
 
@@ -9,16 +9,17 @@ This repo includes the Remote Sensing papers with Transformers which are present
 </p>
 
 #### Content
-- [Object Classification](#object-classification)<br>
-- [3D Object Detection](#3d-object-detection)<br>
-- [3D Segmentation](#3d-segmentation)<br>
+- [VHR Imagery](#vhr-imagery)<br>
   - [Complete Scenes Segmentation](#complete-scenes-segmentation)<br>
   - [Point Cloud Video Segmentation](#point-cloud-video-segmentation)<br>
   - [Medical Imaging Segmentation](#medical-imaging-segmentation)<br>
-- [3D Point Cloud Completion](#3d-point-cloud-completion)<br>
-- [3D Pose Estimation](#3d-pose-estimation)<br>
-- [Other Tasks](#other-tasks)<br>
-  - [3D Tracking](#3d-tracking)<br>
-  - [3D Motion Prediction](#3d-motion-prediction)<br>
-  - [3D Reconstruction](#3d-reconstruction)<br>
-  - [Point Cloud Registration](#point-cloud-registration)<br>
+- [Hyperspectral Imagery](#hyperspectral-imagery)<br>
+  - [Complete Scenes Segmentation](#complete-scenes-segmentation)<br>
+  - [Point Cloud Video Segmentation](#point-cloud-video-segmentation)<br>
+  - [Medical Imaging Segmentation](#medical-imaging-segmentation)<br>
+- [SAR Imagery](#sar-imagery)<br>
+  - [Complete Scenes Segmentation](#complete-scenes-segmentation)<br>
+  - [Point Cloud Video Segmentation](#point-cloud-video-segmentation)<br>
+  - [Medical Imaging Segmentation](#medical-imaging-segmentation)<br>
+
+
