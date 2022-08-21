@@ -1,4 +1,4 @@
-# Transformer-for-Remote-Sensing
+# Transformer-in-Remote-Sensing
 # This repo supplements our [Transformer for Remote Sensing Survey](https://arxiv.org/abs/2208.04309)
 Abdulaziz Amer Aleissaee*, Amandeep Kumar*, Rao Muhammad Anwer,  Salman Khan, Hisham Cholakkal, Fahad Shahbaz khan
 
