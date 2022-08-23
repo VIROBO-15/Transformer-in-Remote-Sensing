@@ -14,7 +14,9 @@ This repo includes the Remote Sensing papers with Transformers which are present
   - [Image Detection](#image-Detection-vhr)<br>
   - [Change Detection](#Change-Detection-vhr)<br>
   - [Image Segmentation](#Image-Segmentation-vhr)<br>
-  - [Others](#Others-vhr)<br>
+  - [Building Extraction](#Building-Extraction-vhr)<br>
+  - [Image Captioning](#Image-Captioning-vhr)<br>
+  - [Image Super Resolution](#Image-Super-Resolution-vhr)<br>
 - [Hyperspectral Imagery](#hyperspectral-imagery)<br>
   - [Image Classification](#image-classification-hyper)<br>
   - [Pan Sharpening](#pan-sharpening)<br>
