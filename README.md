@@ -119,6 +119,47 @@ This repo includes the Remote Sensing papers with Transformers which are present
   
   A super- resolution method of remote sensing image using transformers [[PDF](https://ieeexplore.ieee.org/document/9660904)]<br>
   
+  ## Hyperspectral Imagery
+  
+  ### Image Classification
+  
+  Spectralformer: Rethinking hyperspectral image classification with transformers[[PDF](https://arxiv.org/pdf/2107.02988.pdf)]<br>
+  
+  Multiscale convolutional transformer with center mask pretraining for hyperspectral image classification [[PDF](https://arxiv.org/pdf/2203.04771.pdf)]<br>
+  
+  Multimodal fusion transformer for remote sensing image classification [[PDF](https://arxiv.org/pdf/2203.16952.pdf)]<br>
+  
+  Convolutional transformer network for hyperspectral image classification, [[PDF](https://ieeexplore.ieee.org/document/9762303)]<br>
+  
+  Deep hierarchical vision transformer for hyperspectral and lidar data classification [[PDF](https://ieeexplore.ieee.org/document/9755059)]<br>
+  
+  Dss-trm: deep spatial–spectral transformer for hyperspectral image classification [[PDF](https://www.tandfonline.com/doi/full/10.1080/22797254.2021.2023910)]<br>
+  
+  Hyperspectral image trans- former classification networks [[PDF](https://ieeexplore.ieee.org/document/9766028)]<br>
+  
+  Hsi-bert: Hyperspectral image classification using the bidirectional en- coder representation from transformers [[PDF](https://ieeexplore.ieee.org/document/8824217)]<br>
+  
+  Spectral–spatial feature tokenization transformer for hyperspectral image classification [[PDF](https://ieeexplore.ieee.org/document/9684381)]<br>
+  
+  Spectral-spatial transformer network for hyperspectral image classification: A factorized architecture search framework, [[PDF](https://ieeexplore.ieee.org/document/9565208)]<br>  
+  
+  ### Pan-Sharpening
+  
+  PanFormer: a Transformer Based Model for Pan-sharpening [[PDF](https://arxiv.org/pdf/2203.02916.pdf)]<br>
+  
+  Hypertransformer: A textural and spectral feature fusion transformer for pansharpening [[PDF](https://arxiv.org/pdf/2203.02503.pdf)]<br>
+  
+  Pmacnet: Parallel multiscale attention constraint network for pan-sharpening [[PDF](https://ieeexplore.ieee.org/document/9764690)]<br>
+  
+  Pan-sharpening based on cnn+ pyramid transformer by using no-reference loss, [[PDF](https://www.mdpi.com/2072-4292/14/3/624)]<br>
+  
+  Multiscale spatial–spectral interaction transformer for pan-sharpening [[PDF](https://www.mdpi.com/2072-4292/14/7/1736)]<br>
+  
+  Transformer-based regression network for pansharpening remote sensing images [[PDF](https://ieeexplore.ieee.org/document/9715116)]<br>
+  
+  
+  
+  
   
   
   
