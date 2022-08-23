@@ -30,5 +30,16 @@ This repo includes the Remote Sensing papers with Transformers which are present
   ## VHR Imagery
   ### Image Classification
   
-Vision transformers for remote sensing image classification [[PDF](https://www.mdpi.com/2072-4292/13/3/516)]<br>
+  Vision transformers for remote sensing image classification [[PDF](https://www.mdpi.com/2072-4292/13/3/516)]<br>
+  
+  TRS: Transformers for Remote Sensing Scene Classification [[PDF](https://www.mdpi.com/2072-4292/13/20/4143)]<br>
+  
+  Two-stream swin transformer with differentiable sobel operator for remote sensing image classification[[PDF](https://www.mdpi.com/2072-4292/14/6/1507)]<br>
+  
+  When cnns meet vision trans-former: A joint framework for remote sensing scene classification, [[PDF](https://ieeexplore.ieee.org/document/9531646)]<br>
+  
+  Homo– heterogenous transformer learning framework for rs scene classification [[PDF](https://ieeexplore.ieee.org/document/9726930)]<br>
+  
+  An Empirical Study of Remote Sensing Pretraining [[PDF](https://arxiv.org/pdf/2204.02825.pdf)]<br>
+  
 
