@@ -30,5 +30,5 @@ This repo includes the Remote Sensing papers with Transformers which are present
   ## VHR Imagery
   ### Image Classification
   
-
+Vision transformers for remote sensing image classification [[PDF](https://www.mdpi.com/2072-4292/13/3/516)]<br>
 
