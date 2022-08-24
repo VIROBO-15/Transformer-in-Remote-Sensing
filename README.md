@@ -159,6 +159,45 @@ This repo includes the Remote Sensing papers with Transformers which are present
   
   Transformer-based regression network for pansharpening remote sensing images [[PDF](https://ieeexplore.ieee.org/document/9715116)]<br>
   
+  ## SAR Imagery
+  
+  ### Image Classification
+  
+  Exploring vision transformers for polarimetric sar image classification [[PDF](https://ieeexplore.ieee.org/document/9658539)]<br>
+  
+  High resolution sar image classification using global-local network structure based on vision transformer and cnn [[PDF](https://ieeexplore.ieee.org/document/9713848)]<br>
+  
+  St-pn: A spatial transformed prototypical network for few-shot sar image classification [[PDF](https://www.mdpi.com/2072-4292/14/9/2019)]<br>
+  
+  ### Segmentation 
+  
+  Gcbanet: A global context boundary-aware network for sar ship instance segmentation[[PDF](https://www.mdpi.com/2072-4292/14/9/2165)]<br>
+  
+  ### Image Detection
+  
+  Crtranssar: A visual transformer based on contextual joint representation learning for sar ship detection [[PDF](https://www.mdpi.com/2072-4292/14/6/1488)]<br>
+  
+  Geospatial transformer is what you need for aircraft detection in sar imagery [[PDF](https://ieeexplore.ieee.org/document/9741706)]<br>
+  
+  Sfre-net: Scattering feature relation enhancement network for aircraft detection in sar images [[PDF](https://www.mdpi.com/2072-4292/14/9/2076)]<br>
+  
+  End-to-end method with transformer for 3d detection of oil tank from single sar image, [[PDF](https://ieeexplore.ieee.org/document/9614654)]<br>
+  
+  ### Despeckling
+  
+  Transformer based sar image despeckling [[PDF](https://arxiv.org/pdf/2201.09355.pdf)]<br>
+  
+  ### Change Detection
+  
+  A contrastive learning transformer for change detection in highresolution sar images [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4169439)]<br>
+  
+  ### Image Registration
+  
+  A transformer-based coarse-tofine wide-swath sar image registration method under weak texture conditions [[PDF](https://www.mdpi.com/2072-4292/14/5/1175)]<br>
+  
+  
+  
+  
   
   
   
