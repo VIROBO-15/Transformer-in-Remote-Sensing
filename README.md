@@ -5,7 +5,7 @@ Abdulaziz Amer Aleissaee*, Amandeep Kumar*, Rao Muhammad Anwer,  Salman Khan, Hi
 This repo includes the Remote Sensing papers with Transformers which are presented in our [paper](https://arxiv.org/abs/2208.04309), and we aim to frequently update the latest relevant papers.
 
 <p align="center">
-<img src="Figure.png" width="800">
+<img src="Figure1.pdf" width="800">
 </p>
 
 #### Content
