@@ -2,7 +2,7 @@
 # This repo supplements our [Transformer for Remote Sensing Survey](https://arxiv.org/abs/2208.04309)
 Abdulaziz Amer Aleissaee*, Amandeep Kumar*, Rao Muhammad Anwer,  Salman Khan, Hisham Cholakkal, Fahad Shahbaz khan
 
-This repo includes the Remote Sensing papers with Transformers which are presented in our [paper](https://arxiv.org/abs/2208.04309), and we aim to frequently update the latest relevant papers.
+This repo includes the Remote Sensing papers with Transformers which are presented in our [paper](https://arxiv.org/abs/2209.01206), and we aim to frequently update the latest relevant papers.
 
 <p align="center">
 <img src="Figure1.png" width="800">
