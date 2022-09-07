@@ -121,7 +121,7 @@ This repo includes the Remote Sensing papers with Transformers which are present
   
   A super- resolution method of remote sensing image using transformers [[PDF](https://ieeexplore.ieee.org/document/9660904)]<br>
   
-  Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer [[PDF]  (https://www.sciencedirect.com/science/article/pii/S0303243422000575)]<br>
+  Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer [[PDF](https://www.sciencedirect.com/science/article/pii/S0303243422000575)]<br>
   
   ## Hyperspectral Imagery
   
