@@ -201,11 +201,11 @@ This repo includes the Remote Sensing papers with Transformers which are present
   ## Citation
 If you find this work useful in your research, please consider citing: 
 ```
-@article{kumar2020udbnet,
-  title={UDBNET: Unsupervised Document Binarization Network via Adversarial Game},
-  author={Kumar, Amandeep and Ghose, Shuvozit and Chowdhury, Pinaki Nath and Roy, Partha Pratim and Pal, Umapada},
-  journal={arXiv preprint arXiv:2007.07075},
-  year={2020}
+@article{aleissaee2022transformers,
+  title={Transformers in Remote Sensing: A Survey},
+  author={Aleissaee, Abdulaziz Amer and Kumar, Amandeep and Anwer, Rao Muhammad and Khan, Salman and Cholakkal, Hisham and Xia, Gui-Song and others},
+  journal={arXiv preprint arXiv:2209.01206},
+  year={2022}
 }
 ```
   
